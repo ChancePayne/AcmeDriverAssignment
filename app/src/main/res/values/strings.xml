@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">AcmeDriverAssignment</string>
+    <string name="app_name">Driver Assignment</string>
+    <string name="content_icon_action">Action Icon</string>
+
+    <!--Driver List Screen-->
+    <string name="driver_list_activity_title">Available Drivers</string>
+    <string name="driver_list_activity_loading_message">Loading List of Drivers</string>
+
 </resources>
